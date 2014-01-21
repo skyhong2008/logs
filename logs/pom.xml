@@ -42,4 +42,10 @@
 		
 	</dependencies>
 	
+	<scm>
+		<url>https://github.com/skyhong2008/logs.git</url>
+		<connection>scm:git:https://github.com/skyhong2008/logs.git</connection>
+		<developerConnection>scm:git:https://github.com/skyhong2008/logs.git</developerConnection>
+		<tag>HEAD</tag>
+	</scm>
 </project>
